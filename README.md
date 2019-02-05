@@ -1,6 +1,9 @@
+
+Slack Metal – A Dark Theme for Slack
+====================================
+
 ![Slack Metal logo](slack.metal_cover.jpg)
 
-      
 ## About
 Slack Metal is a dark theme for the Slack Mac app. It is designed to put less strain on your eyes and to blend in seamlessly with the macOS Dark Mode. 
 
