@@ -17,7 +17,7 @@ Please create your own copy of the files to avoid the risk of XSS attacks.
 ```
 * Run the script named `slack_metal.sh`. 
 * Reload Slack.
-* If necessary, enable dev tools on Slack via Termnial:
+* If necessary, enable dev tools on Slack via Terminal:
 ```shell
 export SLACK_DEVELOPER_MENU=true
 ```
