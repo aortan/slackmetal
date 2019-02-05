@@ -6,12 +6,8 @@ Slack Metal is a dark theme for the Slack Mac app. It is designed to put less st
 
 This project was born from a method provided by @laCour (https://github.com/laCour/slack-night-mode/issues/73#issuecomment-287467332)
 
-Disclaimer: this is a hack – use it at your own peril! (the CSS-file is a beautiful mess...)
-
-
-## Security
-Please create your own copy of the files to avoid the risk of XSS attacks.
-
+## Disclaimer
+This is a hack – use it at your own peril! Also, the CSS-file is a beautiful mess...
 
 ## Instructions 
 * Install the sidebar theme on Slack > Settings > Sidebar > Theme:
