@@ -24,4 +24,3 @@ export SLACK_DEVELOPER_MENU=true
 ```shell
 open -a /Applications/Slack.app
 ```
-
