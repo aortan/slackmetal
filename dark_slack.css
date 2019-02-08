@@ -92,6 +92,10 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .p-channel_sidebar__jumper { background: transparent !important; }
 
+.p-channel_insights__channel .channel_link {
+    color: #949494;
+}
+
 .channels_list_holder h2 { color: #e6e6e6 !important; }
 
 .channels_list_holder h2.hoverable:not(.jquery_hover):hover { color: #e6e6e6; opacity: 0.8; }
