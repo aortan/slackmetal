@@ -2420,6 +2420,11 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #team_tab #member_preview_scroller { background-color: #222; }
 
+#team_tab #member_preview_scroller .member_details .member_name {
+    color: #ffffff;
+    font-weight: 900;
+}
+
 #team_tab #member_preview_scroller .feature_custom_status_expiry.member_details .member_name { color: #ffffff; }
 
 #member_preview_scroller .member_details .member_name_and_presence .member_name, #member_preview_web_container .member_details .member_name_and_presence .member_name, .menu_member_header .member_details .member_name_and_presence .member_name { color: #e6e6e6; }
