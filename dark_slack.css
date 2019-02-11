@@ -1253,6 +1253,10 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .c-message_attachment { color: #e6e6e6; }
 
+.c-message_attachment__author--distinct {
+    color: #ffffff;
+}
+
 .c-message_attachment__border { background-color: #545454; }
 
 .c-message_attachment__delete { color: #949494; }
@@ -2150,7 +2154,11 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #e6e6e6; }
 
 .p-file_details__meta_container .c-file__action_button { color: #fff; }
 
-.c-pillow_file_container { background: #545454; border-color: #363636; color: #e6e6e6; }
+.c-pillow_file_container { background: #333333; border-color: #363636; color: #e6e6e6; }
+
+.c-pillow_file__swap .c-pillow_file__slide {
+    background: #717171;
+}
 
 .c-pillow_file__description, .c-pillow_file__title { color: #e6e6e6; }
 
