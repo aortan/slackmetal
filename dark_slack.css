@@ -1666,6 +1666,10 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .c-message--light .c-message__sender .c-message__sender_link { color: #e6e6e6; }
 
+.c-deprecated_button--link {
+    color: #5db8ff;
+}
+
 .light_theme ts-message { color: #e6e6e6; }
 
 .light_theme ts-message .message_content .message_sender, .light_theme ts-message .message_content .meta .message_sender:hover { color: #e6e6e6 !important; }
