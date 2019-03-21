@@ -445,7 +445,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 }
 
 
-
 .c-texty_input.focus .c-texty_input__button {
     color: #949494;
 }
@@ -456,6 +455,34 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-texty_input .ql-placeholder {
 	color:#767676;
+}
+
+.p-threads_view {
+    background: #222;
+}
+
+.p-threads_view_header__permalink {
+    color: #ffffff!important;
+}
+
+.p-threads_view_header__participant_list {
+    color: #b1b1b1;
+}
+
+.p-threads_view_root {
+    border: 0px solid #ddd;
+}
+.p-threads_view__footer {
+    border: 0px solid #ddd; 
+}
+
+.p-threads_view_reply {
+    border: 0px solid #ddd;
+} 
+
+.p-threads_view__default_background {
+    background: #383737;
+    margin: 0 16px;
 }
 
 
@@ -1478,6 +1505,18 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 .p-message_pane__limited_history_foreword { background: #363636; background-image: none; color: #e6e6e6; }
 
 .p-message_pane__unread_banner__banner { background: #545454; text-shadow: 0 1px rgba(0, 0, 0, 0.15); }
+
+.p-threads_footer__input--legacy .p-message_input_file_button {
+    background: #4a4a4a;
+}
+
+.p-threads_footer__input--legacy .p-message_input_file_button {
+    border: 0px solid #fff;
+}
+
+.p-threads_footer__input .p-message_input_field.focus~.p-message_input_file_button:not(:hover) {
+    color: #ffffff;
+}
 
 .messages_banner { color: #e6e6e6; text-shadow: 0 1px rgba(0, 0, 0, 0.15); }
 
