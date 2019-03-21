@@ -485,6 +485,17 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
     margin: 0 16px;
 }
 
+.p_threads_view_load_newer_button,.p_threads_view_load_older_button {
+    height: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    background: #4a4a4a;
+    padding-left: 12px;
+    border-left: 0px solid #ddd;
+    border-right: 0px solid #ddd;
+}
+
 
 
 .inline_message_input_container .ql-container { border-color: #545454; }
