@@ -485,6 +485,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
     margin: 0 16px;
 }
 
+
+.p-threads_view_reply--new_reply {
+    background: #424242;
+}
+
 .p_threads_view_load_newer_button,.p_threads_view_load_older_button {
     height: 32px;
     line-height: 32px;
